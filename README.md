@@ -99,3 +99,7 @@ Nothing needs root or a helper tool.
   is not counted twice. Other interfaces still appear in the per-interface list.
 - **Icon order**: icons pinned at first launch run CPU to Network, left to
   right. One pinned later appears at the left; ⌘-drag it where you want it.
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
